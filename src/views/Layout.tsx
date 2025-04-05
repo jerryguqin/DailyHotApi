@@ -228,7 +228,7 @@ const Layout: FC = (props) => {
           </div>
           <div class="icp">
             <a href="https://beian.miit.gov.cn/" target="_blank">
-              川ICP备2022018134号-1
+              蜀ICP备2022018134号-1
             </a>
           </div>
         </footer>
